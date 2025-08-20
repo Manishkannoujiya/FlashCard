@@ -34,11 +34,7 @@ In details page, we see every card here and every details about each acrd includ
 
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/cc22ji/flash_card
-```
 
 Go to the project directory
 
@@ -81,13 +77,8 @@ Keep in mind during deployment put...
 
 
 
-## Demo
-Here a link of demostartion video -
 
- - [FlashCard Generator](https://github.com/matiassingers/awesome-readme)
-
-
-# Hi, I'm Chetan! 👋
+# Hi, I'm Manish! 👋
 
 
 ## 🚀 About Me
@@ -101,18 +92,4 @@ I'm a Student learning Full Stack web Development.
 React, Javascript, JSX, HTML, CSS, Bootstrap, tailwind,...
 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chetan-chouhan-06b954167)
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at chetanchouhan222@gmail.com
-
-
-## Contributing
-
-Contributions are always welcome!
 
